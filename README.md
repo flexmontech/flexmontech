@@ -1,14 +1,14 @@
 # FLEXMON LLC
 
-**Technology + AI solutions for business.**
+**Technology + AI solutions for Small Medium business.**
 
-FLEXMON LLC is an Illinois-based technology and consulting business supporting organisations with practical digital solutions, automation and technology delivery.
+FLEXMON LLC is an technology and consulting business supporting organisations with practical digital solutions, automation and technology delivery.
 
 ## What we do
 
 - **AI & Automation** — applied AI solutions and workflow automation
 - **Healthcare IT** — healthcare technology, informatics and digital operations
-- **Web Design & Development** — business websites and digital experiences
+- **Web Design & Development** — business websites, branding and digital experiences
 - **Business Applications & Solutions** — practical tools that support business workflows
 - **Enterprise & Business Operations** — technology planning, implementation and operational support
 

@@ -1,25 +1,43 @@
 # FLEXMON LLC
 
-**Technology + AI solutions for Small Medium business.**
+**Technology + AI solutions for small and medium-sized businesses.**
 
-FLEXMON LLC is an technology and consulting business supporting organisations with practical digital solutions, automation and technology delivery.
+FLEXMON LLC is an Illinois-based technology and consulting business delivering practical digital solutions, AI-enabled applications, workflow automation, healthcare IT support and web development.
 
 ## What we do
 
-- **AI & Automation** — applied AI solutions and workflow automation
-- **Healthcare IT** — healthcare technology, informatics and digital operations
-- **Web Design & Development** — business websites, branding and digital experiences
-- **Business Applications & Solutions** — practical tools that support business workflows
-- **Enterprise & Business Operations** — technology planning, implementation and operational support
+- **AI and automation** — AI-enabled tools, agents and workflow automation
+- **Healthcare IT** — healthcare informatics, digital operations and technology delivery
+- **Web design and development** — business websites, web applications and digital experiences
+- **Business applications** — practical tools for lead generation, customer engagement and operations
+- **Branding and digital marketing** — logos, social content and promotional assets
 
-## Selected work
+## Selected websites and live demos
 
-A small selection of project screenshots will be presented here. This public profile is intended as a visual introduction to our work; detailed project materials and supporting evidence may be shared privately with prospective clients where appropriate.
+These links provide a public view of selected website and application work.
+
+| Project | What to explore |
+|---|---|
+| [FLEXMON](https://flexmon.tech) | Company website and website chatbot |
+| [AI FlexConnect](https://aiflexconnect.lovable.app) | AI-focused web application |
+| [KinetiqTrade](https://kinetiqtrade.lovable.app) | Lead-generation and sales-demo platform for local service businesses |
+| [TABs Behavioral Health](https://www.tabsbehavioralhealthservices.com/) | Client website and digital brand delivery |
+| [iDrink by Zipoura](https://idrinkapp.com) | Product and hospitality platform |
+
+## Selected public GitHub projects
+
+- [KinetiqTrade](https://github.com/flexmontech/kinetiqtrade) — lead-generation and sales-demo platform
+- [AI FlexConnect](https://github.com/flexmontech/aiflexconnect-0183748c) — AI-focused application
+- [LEGESEB – Phase 1 Foundation](https://github.com/flexmontech/legeseb-phase-1-foundation) — lead-generation workflow foundation
+- [TrustCare](https://github.com/flexmontech/trustcare) — healthcare lead-engine concept and development
+
+Project status and capabilities vary; individual repository READMEs provide further context. Public demos are provided for review, and some features may be prototypes rather than production services.
 
 ## Contact
 
 - Website: [flexmon.tech](https://flexmon.tech)
 - Email: [info@flexmon.tech](mailto:info@flexmon.tech)
+- GitHub: [github.com/flexmontech](https://github.com/flexmontech)
 
 ---
 

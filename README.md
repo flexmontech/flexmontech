@@ -20,8 +20,9 @@ The FLEXMON website introduces the company's technology, AI and digital services
 ### [AI FlexConnect](https://aiflexconnect.lovable.app)
 AI FlexConnect is a web application concept designed to bring AI work opportunities, training platforms and learning resources into one discovery experience. It addresses the challenge of searching across scattered sources; the public version currently showcases the front-end experience with sample content.
 
-### [KinetiqTrade](https://kinetiqtrade.lovable.app)
-KinetiqTrade helps web-service providers identify local business prospects, organise leads, create tailored website demos and prepare follow-up messages. It reduces the manual effort involved in prospect research and gives potential clients a concrete website concept to review before making a decision.
+### OceanHQ (formerly KinetiqTrade)
+OceanHQ is an AI workspace for chat-based tasks, live search, lead generation, document retrieval and client searches. It brings conversational interaction, tool-assisted workflows and access to information into one workspace, reducing the need to switch between separate tools; its public website is not currently published.
+[View the OceanHQ project repository](https://github.com/flexmontech/kinetiqtrade)
 
 ### [Plutonium31 – Lead Generation](https://github.com/flexmontech/legeseb-phase-1-foundation)
 Plutonium31 is a configurable lead-generation and lead-management application for organising prospects, campaigns, qualification and editable outreach drafts. It helps small businesses bring scattered prospect information and follow-up preparation into a more structured workflow. The GitHub repository retains its original Legeseb-based URL for continuity.
@@ -37,7 +38,7 @@ iDrink by Zipoura is a hospitality-focused digital product for customer engageme
 
 ## Selected public GitHub projects
 
-- [KinetiqTrade](https://github.com/flexmontech/kinetiqtrade) — lead-generation and website-demo sales platform
+- [OceanHQ (formerly KinetiqTrade)](https://github.com/flexmontech/kinetiqtrade) — AI workspace for chat-based tasks, search, lead generation and document retrieval
 - [AI FlexConnect](https://github.com/flexmontech/aiflexconnect-0183748c) — AI work and learning discovery interface
 - [Plutonium31](https://github.com/flexmontech/legeseb-phase-1-foundation) — configurable lead-generation and management application
 - [TrustCare](https://github.com/flexmontech/trustcare) — early-stage healthcare sales-support agent concept

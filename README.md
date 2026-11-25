@@ -22,15 +22,15 @@ AI FlexConnect is a web application concept designed to bring AI work opportunit
 
 ### [OceanHQ](https://oceanhq.lovable.app) (formerly KinetiqTrade)
 OceanHQ is an AI workspace for chat-based tasks, live search, lead generation, document retrieval and client searches. It brings conversational interaction, tool-assisted workflows and access to information into one workspace, reducing the need to switch between separate tools.
-[Backup live demo for OpenWorks review](https://oceanhq.lovable.app) · [View the OceanHQ project repository](https://github.com/flexmontech/kinetiqtrade)
+[View the live OceanHQ demo](https://oceanhq.lovable.app) · [View the OceanHQ project repository](https://github.com/flexmontech/kinetiqtrade)
 
 ### [Plutonium31 – Lead Generation](https://github.com/flexmontech/legeseb-phase-1-foundation)
 Plutonium31 (formerly Legeseb) is a configurable lead-generation and lead-management application for organising prospects, campaigns, qualification and editable outreach drafts. It helps small businesses bring scattered prospect information and follow-up preparation into a more structured workflow. The GitHub repository retains its original Legeseb-based URL for continuity.
-[Backup live demo for OpenWorks review](https://plutonium31.lovable.app)
+[View the live Plutonium31 demo](https://plutonium31.lovable.app)
 
 ### [TrustCare Sales Agent](https://github.com/flexmontech/trustcare)
 TrustCare is an early-stage sales-support agent built with cto.new for a healthcare services organisation. It provides a lead-generation workspace intended to help organise enquiries and support follow-up, reducing manual enquiry administration while keeping decisions and external communications under human control.
-[Backup TrustCare lead-generation demo for OpenWorks review](https://a7e68b7db624acfc890b6b0ca3c3d222.cto.site/leads)
+[View the TrustCare lead-generation demo](https://a7e68b7db624acfc890b6b0ca3c3d222.cto.site/leads)
 
 ### [TABs Behavioral Health](https://www.tabsbehavioralhealthservices.com/)
 FLEXMON delivered the TABs Behavioral Health website and supporting brand assets, including logo and social-media promotional materials. The website gives the organisation a clear digital presence where visitors can learn about its services and find a route to make contact.

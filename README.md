@@ -23,8 +23,8 @@ AI FlexConnect is a web application concept designed to bring AI work opportunit
 ### [KinetiqTrade](https://kinetiqtrade.lovable.app)
 KinetiqTrade helps web-service providers identify local business prospects, organise leads, create tailored website demos and prepare follow-up messages. It reduces the manual effort involved in prospect research and gives potential clients a concrete website concept to review before making a decision.
 
-### [LEGESEB – Lead Generation](https://github.com/flexmontech/legeseb-phase-1-foundation)
-LEGESEB is a configurable lead-generation and lead-management application for organising prospects, campaigns, qualification and editable outreach drafts. It helps small businesses bring scattered prospect information and follow-up preparation into a more structured workflow; its current demo and workspace capabilities are documented in the repository.
+### [Plutonium31 – Lead Generation](https://github.com/flexmontech/legeseb-phase-1-foundation)
+Plutonium31 is a configurable lead-generation and lead-management application for organising prospects, campaigns, qualification and editable outreach drafts. It helps small businesses bring scattered prospect information and follow-up preparation into a more structured workflow. The GitHub repository retains its original Legeseb-based URL for continuity.
 
 ### [TrustCare Sales Agent](https://github.com/flexmontech/trustcare)
 TrustCare is an early-stage sales-support agent concept intended to help a healthcare services organisation organise enquiries, qualify opportunities and prepare follow-ups for staff review. The aim is to reduce manual enquiry administration while keeping decisions and external communications under human control; this repository is currently labelled an initial concept.
@@ -39,7 +39,7 @@ iDrink by Zipoura is a hospitality-focused digital product for customer engageme
 
 - [KinetiqTrade](https://github.com/flexmontech/kinetiqtrade) — lead-generation and website-demo sales platform
 - [AI FlexConnect](https://github.com/flexmontech/aiflexconnect-0183748c) — AI work and learning discovery interface
-- [LEGESEB – Phase 1 Foundation](https://github.com/flexmontech/legeseb-phase-1-foundation) — configurable lead-generation and management application
+- [Plutonium31](https://github.com/flexmontech/legeseb-phase-1-foundation) — configurable lead-generation and management application
 - [TrustCare](https://github.com/flexmontech/trustcare) — early-stage healthcare sales-support agent concept
 
 **Project status:** These examples include live websites, working demonstrations and early-stage concepts. Each repository describes its current scope and limitations; not every feature shown or described should be interpreted as a production deployment.
